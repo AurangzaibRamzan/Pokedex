@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
-    "test": "jest",
-    "lint": "eslint .",
+    "test": "jest"
   },
   "dependencies": {
     "apollo-boost": "^0.4.3",
