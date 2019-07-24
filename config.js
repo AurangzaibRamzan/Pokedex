@@ -1,0 +1,1 @@
+export const Api = 'https://graphql-pokemon.now.sh';
