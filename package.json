@@ -5,7 +5,7 @@
   "scripts": {
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "dependencies": {
     "apollo-boost": "^0.4.3",
