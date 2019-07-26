@@ -1,9 +1,13 @@
 import React from 'react';
+import { graphql } from 'react-apollo';
 
 import HomeView from '../../components/Home';
 
-const Home = () => {
-  return <HomeView />;
+import Pokemons from './queries';
+
+const Home = props => {
+  const { data } = props;
+  return <HomeView data={data} />;
 };
 
-export default Home;
+export default graphql(Pokemons)(Home);

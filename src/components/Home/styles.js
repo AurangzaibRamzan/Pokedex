@@ -50,6 +50,7 @@ export const ImageWrapper = styled.Image`
   height: 48; 
   width: 48;
   alignSelf: center;
+  resizeMode: contain;
 `;
 
 export const PokeText = styled.Text`
