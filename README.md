@@ -4,10 +4,10 @@
 ![build status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![license use](https://img.shields.io/badge/license-Apache%202-blue.svg)
 
-![React Native](https://img.shields.io/badge/React%20Native%20-v0.59.8-blue.svg)
-![react](https://img.shields.io/badge/React%20-v16.8.3-blue.svg)
-![GraphQL](https://img.shields.io/badge/GraphQL%20-v14.1.1-green.svg)
-![react apollo](https://img.shields.io/badge/Apollo%20Client%20-v2.5.1-green.svg)
+![React Native](https://img.shields.io/badge/React%20Native%20-v0.60.4-blue.svg)
+![react](https://img.shields.io/badge/React%20-v16.8.6-blue.svg)
+![GraphQL](https://img.shields.io/badge/GraphQL%20-v14.4.2-green.svg)
+![react apollo](https://img.shields.io/badge/Apollo%20Client%20-v2.5.8-green.svg)
 ![style use](https://img.shields.io/badge/style-styled%20component-brightgreen.svg?logo=appveyor)
 
 
