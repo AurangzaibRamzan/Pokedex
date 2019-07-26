@@ -13,14 +13,13 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/31761132/61935857-cec49d80-afa4-11e9-95c7-1638712c3d75.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/31761132/61936005-34b12500-afa5-11e9-8006-d60e9a5e1d00.png" width="100" height="100">
 Android and IOS Application for exploring pokemon
 </br>
-https://aurangzaibramzan.github.io/Anime-jisho/
+https://aurangzaibramzan.github.io/pokedex/
 <h2>Technologies Used </h2>
  
 - React Native
-- React Navigation
 - Styled Component
 - React Apollo
 - Apollo Client
