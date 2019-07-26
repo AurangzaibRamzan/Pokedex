@@ -24,3 +24,25 @@ https://aurangzaibramzan.github.io/pokedex/
 - React Apollo
 - Apollo Client
 - GraphQL backened
+
+
+<h2>Screens </h2>
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/31761132/61937281-f10bea80-afa7-11e9-8a47-6b02b42761bf.png" width="200" height="350">
+ <img src="https://user-images.githubusercontent.com/31761132/61937283-f23d1780-afa7-11e9-9afe-1f0e862eb49b.png"  width="200" height="350">
+</p>
+
+## Working with Code
+
+The process of submitting a pull request is fairly straightforward and generally follows the same pattern each time:
+
+#### Create a new branch
+#### Make your changes
+#### Rebase onto upstream
+#### Run the tests
+#### Double check your submission
+#### Push your changes
+#### Submit the pull request
+
+ ### Having trouble with repo? Check out our documentation or contact Support aurangzaib987@gmail.com
