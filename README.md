@@ -2,7 +2,7 @@
 
 ![support](https://img.shields.io/badge/platform-IOS%20%7C%20Andriod-%23989898.svg)
 ![build status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![license use](https://img.shields.io/badge/license-Apache%202-blue.svg)
+![license use](https://img.shields.io/badge/license-MIT%20-blue.svg)
 
 ![React Native](https://img.shields.io/badge/React%20Native%20-v0.60.4-blue.svg)
 ![react](https://img.shields.io/badge/React%20-v16.8.6-blue.svg)
